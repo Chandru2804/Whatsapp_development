@@ -4,7 +4,7 @@ public class AxisBank extends BankInfo {
 
 	public void deposit() {
 		super.deposit();
-	System.out.println(" axis bank deposied amount is 200");
+	System.out.println(" axis bank deposited amount is 200");
 	
 
 	}
@@ -18,7 +18,7 @@ public class AxisBank extends BankInfo {
 	
 		a.indianBankSavings();
 		a.fixed();
-		a.deposit();
+		a.deposit(); 
 	}
 	
 }
